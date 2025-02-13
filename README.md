@@ -1,6 +1,6 @@
 ## Hi there 👋
 ## My name is Guilherme Parisi, I'm Brazilian. You can call me Gee (with a hard G as in Go).
-## No I don't play soccer well, but yeah, I can dance. Not so much Samba, but definitely Forró, ever heard of it?
+## No I don't play football/soccer well, but yeah, I can dance. Not so much Samba, but definitely Forró, ever heard of it?
 
 - 🔭 I’m currently working as an English teacher (as a second language). I'm studying programming to switch work, however.
 - 💻 I'm looking to become an international programmer (I want to work for an American or European company). Not so sure about my area of expertise yet. Got any suggestions?
